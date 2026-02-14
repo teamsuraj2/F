@@ -1,25 +1,16 @@
-# Jishu Developer 
-# Don't Remove Credit 🥺
-# Telegram Channel @Madflix_Bots
-# Backup Channel @JishuBotz
-# Developer @JishuDeveloper
-
-
-
-
 import os
 from config import Config
 
 class Translation(object):
-  START_TXT = """Hey {}
+  START_TXT = """ʜᴇʏ {}
 
-➻ I Am A Advanced Auto Forward Bot
+➻ ɪ ᴀᴍ ᴀ ᴀᴅᴠᴀɴᴄᴇᴅ ᴀᴜᴛᴏ ғᴏʀᴡᴀʀᴅ ʙᴏᴛ
   
-➻ I Can Forward All Message From One Channel To Another Channel 
+➻ ɪ ᴄᴀɴ ғᴏʀᴡᴀʀᴅ ᴀʟʟ ᴍᴇssᴀɢᴇ ғʀᴏᴍ ᴏɴᴇ ᴄʜᴀɴɴᴇʟ ᴛᴏ ᴀɴᴏᴛʜᴇʀ ᴄʜᴀɴɴᴇʟ 
   
-➻ Click Help Button To Know More About Me
+➻ ᴄʟɪᴄᴋ ʜᴇʟᴘ ʙᴜᴛᴛᴏɴ ᴛᴏ ᴋɴᴏᴡ ᴍᴏʀᴇ ᴀʙᴏᴜᴛ ᴍᴇ
   
-<b>Bot Is Made By @Madflix_Bots</b>"""
+<b>Bot Is Made By @TwsAssociation</b>"""
 
 
   HELP_TXT = """<b><u>🛠️ Help</b></u>
@@ -54,10 +45,10 @@ class Translation(object):
 <b>📝 Language :</b> <a href='https://python.org'>Python 3</a>
 <b>📚 Library :</b> <a href='https://pyrogram.org'>Pyrogram 2.0</a>
 <b>🚀 Server :</b> <a href='https://heroku.com'>Heroku</a>
-<b>📢 Channel :</b> <a href='https://t.me/Madflix_Bots'>Madflix Botz</a>
-<b>🧑‍💻 Developer :</b> <a href='https://t.me/CallAdminRobot'>Jishu Developer</a>
+<b>📢 Channel :</b> <a href='https://t.me/TwsAssociation'>Tws Botz</a>
+<b>🧑‍💻 Developer :</b> <a href='https://t.me/TwsAssociation'>Tws Developer</a>
 
-<b>♻️ Bot Made By :</b> @Madflix_Bots"""
+<b>♻️ Bot Made By :</b> @TwsAssociation"""
   
   STATUS_TXT = """<b><u>Bot Status</u></b>
   
@@ -137,18 +128,3 @@ Before Forwarding The Messages Click The Yes Button Only After Checking The Foll
 <i>° If The <b>Source Chat</b> Is Private Your Userbot Must Be Member Or Your Bot Must Be Admin In There Also</i>
 
 <b>If The Above Is Checked Then The Yes Button Can Be Clicked</b>"""
-
-
-
-
-
-
-
-
-
-
-# Jishu Developer 
-# Don't Remove Credit 🥺
-# Telegram Channel @Madflix_Bots
-# Backup Channel @JishuBotz
-# Developer @JishuDeveloper
