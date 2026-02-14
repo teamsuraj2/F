@@ -1,10 +1,10 @@
 {
   "name": "Ultra Forward Bot",
   "description": "Telegram Ultra Forward Bot ",
-  "logo": "https://graph.org/file/2f461540c83b362772714.jpg",
+  "logo": "https://litter.catbox.moe/088g4s.jpg",
   "keywords": ["Auto Renamer Bot", "Mongo DB"],    
-  "repository": "https://github.com/JishuDeveloper/Ultra-Forward-Bot",
-  "success_url": "https://t.me/Madflix_Bots",
+  "repository": "https://github.com/teamsuraj2/F",
+  "success_url": "https://t.me/TwsAssociation",
   "env": {
       "API_ID": {
           "description": "Your APP ID From my.telegram.org ",
@@ -38,7 +38,7 @@
       },
       "DB_NAME":{ 
           "description":"Your Mongo DB Database Name",
-          "value": "madflixbotz",
+          "value": "TwsAssociation",
           "required": false
       }
   },
