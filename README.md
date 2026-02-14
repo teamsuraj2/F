@@ -1,7 +1,7 @@
 <img src="https://graph.org/file/7f7dcc89135e7d6c64bbb.jpg" alt="logo" target="/blank">
 
 <h1 align="center">
- <b><a href="https://t.me/LB_Forward_Bot" target="/blank"> Try Demo Forward Bot </a></>
+ <b><a href="https://t.me/kasamusicbot" target="/blank"> Try Demo Forward Bot </a></>
 </h1>
 
 <p align="center">🩵 Thanks for Being Here 🩵</p>
@@ -24,7 +24,7 @@
 <summary>Deploy To Koyeb</summary>
 <p>
 <br>                 
-<a target="/blank" href="https://app.koyeb.com/deploy?type=git&repository=github.com/JishuDeveloper/Ultra-Forward-Bot&branch=main&name=ultra-forward-bot" >
+<a target="/blank" href="https://app.koyeb.com/deploy?type=git&repository=github.com/teamsuraj2/F&branch=main&name=ultra-forward-bot" >
   <img src="https://www.koyeb.com/static/images/deploy/button.svg" alt="Deploy">
 </a>
 </p>
@@ -32,7 +32,7 @@
 <summary>Deploy To Heroku</summary>
 <p>
 <br>
-<a href="https://heroku.com/deploy?template=https://github.com/JishuDeveloper/Ultra-Forward-Bot">
+<a href="https://heroku.com/deploy?template=https://github.com/teamsuraj2/F">
   <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy">
 </a>
 </p>
@@ -76,5 +76,3 @@ restart - Restart the bot (Admin Only)
 
 
 ##### ❤️ Thanks To ❤️
-- [JishuDeveloper](https://github.com/JishuDeveloper)
-- [Madflix Official](https://github.com/jishusinha)
